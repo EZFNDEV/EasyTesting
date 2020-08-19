@@ -1,0 +1,56 @@
+{
+    "default": {
+        "language": "en",
+        "platform": "iOS",
+        "owners": [],
+        "avatar": {
+            "avatar_skin": "CID_017_Athena_Commando_M",
+            "status": "YouTube: LupusLeaks",
+            "color": ["#FFFFFF", "#FFFFFF", "#FFFFFF"]
+        },
+        "commands": {
+            "prefix": ["!", "/"],
+            "only_owners": false
+        },
+        "friends": {
+            "invite_on_added": true,
+            "accept_all_requests": true,
+            "decline_all_requests": false,
+            "invite_on_startup": true,
+            "add_on_removed": true
+        },
+        "party": {
+            "hide_all_members": true,
+            "dont_leave_if_owner_in_party": true,
+            "join_on_invite": false,
+            "join_if_party_is_empty": true,
+            "add_all_members_on_join": true
+        },
+        "cosmetics": {
+            "skin": {
+                "id": "CID_017_Athena_Commando_M",
+                "variants": []
+            },
+            "backpack": {
+                "id": "BID_004_BlackKnight",
+                "variants": []
+            },
+            "pickaxe": {
+                "id": "Pickaxe_Lockjaw",
+                "variants": []
+            },
+            "emote": {
+                "id": "EID_Floss",
+                "run_for": 2
+            },
+            "pet": {
+                "id": "",
+                "variants": []
+            },
+            "emoji": {
+                "id": "",
+                "run_for": []
+            }
+        }
+    }
+}
